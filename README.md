@@ -129,16 +129,16 @@
     2. dotenv
     3. bcryptjs
     4. express-async-handler
-  5.Connect to MongoDB Atlas
+  5. Connect to MongoDB Atlas
   6. Use MongoDB instead of data.ts in apis
 
-Register User
+13. Register User
+  1. Add Register api
+  2. Add Register service method
+  3. Add Register link
+  4. Add Register Component
 
-Add Register api
-Add Register service method
-Add Register link
-Add Register Component
-Loading!
+14. Loading!
 
 Add Image
 Add Component

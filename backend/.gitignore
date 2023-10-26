@@ -1,0 +1,4 @@
+# initialize git before it can gitignore node node_modules
+# git init first the create gitignore file to remove node modules.
+node_modules
+.env
